@@ -3,7 +3,7 @@ from roboflow import Roboflow
 from PIL import Image
 import numpy as np
 
-rf = Roboflow(api_key="uhog8pgJ2wfEPN5SrmBG")
+rf = Roboflow(st.secrets.api_key)
 project = rf.workspace().project("arabic-sl")
 model = project.version(17).model
 

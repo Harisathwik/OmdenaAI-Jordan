@@ -1,3 +1,2 @@
 streamlit
 roboflow
-libgl1-mesa-dev

@@ -1,3 +1,4 @@
 streamlit
 roboflow
-opencv-python-headless
+libgl1-mesa-glx
+libgl1-mesa-dev

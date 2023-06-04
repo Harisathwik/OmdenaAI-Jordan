@@ -1,3 +1,4 @@
 streamlit
 roboflow
 opencv-python
+libgl1

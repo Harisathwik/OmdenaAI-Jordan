@@ -1,5 +1,6 @@
 # OmdenaAI-Jordan 
 # Deaf and Dumb Assistant
+
 Trained a model using the datasets colleted in the chapter and using Yolov8.
 
 Developed an Streamlit application for assisting Dumb and Deaf by detecting the signs(Arabic Sign Language).
